@@ -1,0 +1,65 @@
+PageMind: Terms of Use (early public version)
+
+Version: 1.0, 6 November 2026
+Made by: Zakariya Zana Mahamad ("we", "us")
+Contact: Zakariaazana@gmail.com
+
+By installing or using PageMind, you agree to these terms. If you do not agree, do not install or use it.
+
+1. Who may use it
+Anyone aged 18 or older may download and use PageMind for free.
+
+2. What this version is
+- It is an early version. It may have mistakes, may lose or damage work, and may change or stop being updated at any time.
+- Brainy and the other AI features are not active yet. Where they appear, they are marked "Coming soon".
+- It is made for Macs with an Apple chip (M1 or later) running macOS 13 or later.
+- It is not signed or notarized by Apple. Read "Opening PageMind on your Mac" before you install.
+- Get PageMind only from our website. We cannot vouch for copies from anywhere else.
+
+3. What you may do
+You may install PageMind on Macs you own or control, use it for your own studying, and make backup copies of it and of your own files. You may tell others about PageMind and share the link to our website.
+
+4. What you may not do without our written permission
+Except where section 9 or the law allows it, you may not:
+  (a) sell, rent or lend PageMind, or offer the installer for download anywhere other than our website;
+  (b) change it, copy parts of it into other work, or make new works based on it;
+  (c) reuse its name, logo, Brainy or other characters, pictures or code;
+  (d) try to get around its protections, or use it to break the law.
+To ask for permission, write to the contact above. Permission exists only if we clearly agree in writing.
+
+5. Your files and information
+- Your PDFs, notes, highlights and other work stay yours. These terms give us no rights in them.
+- Your work stays on your Mac. We do not collect your files.
+- Keep your own backups of anything important. Saving a copy of a PDF from PageMind does not change the original file.
+
+6. Works on your Mac, without the internet
+- This version works on your Mac without an internet connection. In our tests of this exact version, it sent nothing to and received nothing from the internet.
+- It does not check for updates, and it has no analytics, advertising or crash reporting. New versions are installed by hand from our website.
+- Your PDFs, notes, highlights and other annotations are stored on your Mac.
+- If you click a web link inside a document, PageMind asks you first. If you agree, the link opens in your own web browser, outside PageMind.
+
+7. Feedback
+If you send us ideas, bug reports or suggestions, we may use them to improve PageMind without paying you or naming you. Please do not send private or sensitive documents with feedback.
+
+8. Ownership
+This is a permission to use the software, not a sale. Except for the parts in section 9, PageMind, its code, name, logo, Brainy and its other original pictures and text belong to us, to the extent we hold rights in them.
+
+9. Other people's software and pictures inside PageMind
+- PageMind includes open-source parts, such as LibreOffice, Electron, Chromium, PDF.js, Tesseract and the Noto Sans and Geist fonts. Each comes under its own licence, not these terms. Their full notices are in the app under Settings > This version > Open-source notices, and inside the app package.
+- Nothing in these terms takes away any right those licences give you, including any right to get their source code. LibreOffice 26.8.2 source code: https://download.documentfoundation.org/libreoffice/src/26.8.2/
+- LibreOffice is a trademark of The Document Foundation. PageMind is not made by or connected with The Document Foundation.
+- Some of PageMind's own pictures were made with the help of AI tools, and Brainy's design started from a public-domain (CC0) drawing. We do not promise that any picture is exclusive to PageMind.
+
+10. No promises
+To the extent the law allows, PageMind is provided "as is", without any promise that it works, fits a purpose, or is free of errors.
+
+11. Limit of responsibility
+To the extent the law allows, we are not responsible for indirect losses, lost data, or lost study time caused by using PageMind. Nothing here limits responsibility that the law does not allow to be limited.
+
+12. Ending
+- You may stop using PageMind at any time by deleting it.
+- If you break these terms and do not stop after we tell you, your permission to use PageMind ends and you must delete it.
+- We may stop offering or updating PageMind at any time. Sections 5 and 8 to 11 still apply after that.
+
+13. Changes to these terms
+We may update these terms for later versions. The terms that come with a version apply to that version.
